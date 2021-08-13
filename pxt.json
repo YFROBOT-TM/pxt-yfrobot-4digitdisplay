@@ -1,6 +1,6 @@
 {
     "name": "DigitalTubes",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "YFROBOT's Four Digit Display makecode Package for micro:bit",
     "license": "MIT",
     "dependencies": {
@@ -9,7 +9,11 @@
     },
     "files": [
         "README.md",
-        "main.ts"
+        "main.ts",
+        "_locales/zh-cn/DigitalTubes-strings.json",
+        "_locales/zh-cn/DigitalTubes-jsdoc-strings.json",
+        "_locales/zh-tw/DigitalTubes-strings.json",
+        "_locales/zh-tw/DigitalTubes-jsdoc-strings.json"
     ],
     "testFiles": [
         "test.ts"

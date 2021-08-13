@@ -1,0 +1,14 @@
+{
+  "DigitalTubes.connectPIN|block": "數碼管DIO|%pin_d|CLK|%pin_c",
+  "DigitalTubes.showNumber|block": "顯示數字%num",
+  "DigitalTubes.showHex|block": "顯示16進制數字%num",
+  "DigitalTubes.digit|block": "顯示數字|%num在第|%bit|位",
+  "DigitalTubes.showDpAt|block": "設置第|%bit|位點顯示|%show",
+  "DigitalTubes.setIntensity|block": "設置顯示亮度%dat",
+  "DigitalTubes.on|block": "打開顯示",
+  "DigitalTubes.off|block": "關閉顯示",
+  "DigitalTubes.clear|block": "清除顯示",
+  "DigitalTubes|block": "DigitalTubes",
+  "{id:category}DigitalTubes": "DigitalTubes",
+  "{id:subcategory}DigitalTube": "數碼管顯示"
+}

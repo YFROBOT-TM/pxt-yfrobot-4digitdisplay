@@ -1,0 +1,20 @@
+{
+  "DigitalTubes.connectPIN": "数字管模块初始化并设置连接到指定引脚的。",
+  "DigitalTubes.connectPIN|param|pin_d": "DIO引脚",
+  "DigitalTubes.connectPIN|param|pin_c": "CLK引脚",
+  "DigitalTubes.digit": "在给定位置显示数字。",
+  "DigitalTubes.digit|param|num": "将显示数字（0~15），例如：100。",
+  "DigitalTubes.digit|param|bit": "数码管位置。例如：0",
+  "DigitalTubes.showNumber": "显示一个数字。",
+  "DigitalTubes.showNumber|param|num": "将显示数字，例如：100。",
+  "DigitalTubes.showHex": "以十六进制格式显示一个数字。",
+  "DigitalTubes.showHex|param|num": "将显示数字，例如：123。",
+  "DigitalTubes.showDpAt": "在给定位置显示小数点。",
+  "DigitalTubes.showDpAt|param|bit": "数码管位置。例如：0",
+  "DigitalTubes.showDpAt|param|show": "true/false。",
+  "DigitalTubes.setIntensity": "设置数码管显示亮度等级。",
+  "DigitalTubes.setIntensity|param|dat": "数码管显示亮度等级。例如：3",
+  "DigitalTubes.on": "打开显示。",
+  "DigitalTubes.off": "关闭显示",
+  "DigitalTubes.clean": "清除显示内容。"
+}
